@@ -48,7 +48,7 @@ sku_scraper/
 
 ### 1. Clone the Repository
 ```
-git clone  https://github.com/IkramDev512/Multi-Platform-SKU-Scraper-Magento---Shopify.git
+git clone https://github.com/erankitsrivastava/Multi-Platform-SKU-Scraper-Magento---Shopify.git sku-scraper
 cd sku-scraper
 ```
 ### 2. Install Requirements
@@ -71,6 +71,19 @@ Output will be saved to product_skus.xlsx.
 | Shopify | MNZ-DY-040-en | [https://example.com/product2](https://example.com/product2) |
 
 ## 📬 About the Developer
-Hi, I'm Ikram, a Python developer focused on web scraping, browser automation, and transitioning into Data Science. I specialize in building efficient scrapers for e-commerce, real estate, and medical platforms and other niches.
 
-### 📫 For freelance projects: shahikram295@gmail.com
+Hi, I'm **Ankit Srivastava** — a web developer with strong experience in **e-commerce development** (Magento, Shopify, Adobe Commerce), **web scraping**, and **browser automation**.  
+I build scalable systems that power online stores, automate workflows, and extract valuable insights from platforms across niches like **e-commerce**, **real estate**, and **healthcare**.  
+
+Currently, I’m also transitioning into **Data Science**, combining my development expertise with data-driven problem solving.  
+
+### 🔧 What I Do
+- 🛒 Custom **e-commerce solutions** using Magento 2, Shopify, and Adobe Commerce  
+- 🤖 **Web scraping & browser automation** for product data, pricing, and analytics  
+- 📦 Marketplace integrations (Amazon, Joom, OnBuy, Miravia, Frugo, etc.)  
+- 📊 Building pipelines for large-scale data collection and analysis  
+
+### 📫 Get in Touch
+- 📧 Email: [ankit@haxcode.com](mailto:ankit@haxcode.com)  
+- 💬 WhatsApp: [Click here to chat](https://wa.me/919506373657)
+- 🌐 Website: [www.haxcode.com](https://www.haxcode.com)
